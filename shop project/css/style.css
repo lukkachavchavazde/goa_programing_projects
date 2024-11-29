@@ -1,0 +1,125 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.navbar{
+  text-align: center;   /* text miviyvane shuashui */
+    background-color: rgb(235, 235, 235); /*shavucvale peri ukana mxares*/
+    width: 1195px;/*gavzarde sigrdzeshi*/
+    font-size: 45px;/*gavadide text*/
+    margin-top: 0%; /*magla mindo da ametana nav bar da 0% davashore maglidan ro rac sheidxleba magla yoviliko */
+    margin-left: 0%;/*igive ogond marcxnidan*/
+    padding: 10px;/*gavadide*/
+    color: rgb(255, 127, 68);
+    margin-right: 0%;   
+}
+
+
+.parent{
+  display: flex;/*gamoviyene divebshi chasmuli fotoebis gamosatanad ertmanetis gverdze*/
+  gap: 220px;/*gap aris gamotoveba and adgili fotoebsa da text shoris*/
+}
+
+div {
+  width: 100px;/*text da fotoebis adgildebareoba makvs ak daregulirebuli*/
+  margin: 10px; 
+ 
+}
+ 
+
+img{
+  width: 120px; /*imigebis zoma*/
+}
+
+
+p {
+  margin-top: 0%; /*text mak miaxlovebuli potoebtan */
+}
+
+button{
+  border: none;
+  background-color:  rgb(255, 127, 68) ; /*ukana mxaris peri */
+  border-color: white; /* gare shemoweruloba borderi mindoda ro ar gamocheniliko */
+  padding:9% ; /*zoma*/
+  border-radius: 7px; /*kutxeebi mak momrgvalebuli*/
+  
+}
+
+
+button:hover{
+  background-color: rgb(234, 101, 40) ; /* gadatarebis dros icvlis fers*/
+}
+
+
+
+.cart{
+  margin-left: 400px;
+  background-color: rgb(255, 255, 255);
+  padding: 1px 50px;
+  border-radius: 10px;
+  color: rgb(200, 187, 187);
+  text-decoration: none;
+}
+
+
+#t1{
+  width: 135px;
+
+}
+
+
+#t2{
+  width: 140px;
+}
+
+
+#t3{
+  width: 140px;
+}
+
+
+#t4{
+ width: 145px; 
+}
+
+
+hr{
+  width: 1214px;
+}
+
+
+.facebook{
+ 
+  text-decoration: none;
+  color:  rgb(234, 101, 40) ;
+}
+.number{
+  color: rgb(234, 101, 49);
+}
+
+h4{
+  color:rgb(234, 101, 49); 
+}
+
+
+
+
+.middlecart{
+  margin-left: 46%;
+  margin-top: 7%;
+
+
+
+}
+
+.image{
+width:250px ;
+height: 260px;
+}
+
+h1{
+  color: rgb(217, 192, 161);
+}

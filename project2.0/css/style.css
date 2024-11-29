@@ -1,0 +1,76 @@
+img {
+    float: left;
+    margin-left: 150px;
+    width: 500px;
+}
+
+
+#t0{
+    border-radius: 50%;
+    padding: 1%;
+    background-color: black;
+}
+
+#t1{
+    border-radius: 50%;
+    padding: 1%;
+    background-color: gray;
+  
+}
+
+#t2{
+     border-radius: 50%;
+     padding: 1%;
+     background-color: rgb(24, 24, 170);
+}
+
+#t3{
+    background-color: dimgray;
+
+    border-radius: 18%;
+    
+}
+p{
+    color: rgb(0, 0, 0);
+}
+
+#t4
+{
+    background-color: dimgray;
+
+    border-radius: 18%;
+    
+}
+#t5{
+    background-color: dimgray; 
+
+    border-radius: 18%;
+    
+}
+#t6{
+    background-color: dimgray;    
+
+    border-radius: 18%;
+}
+
+
+
+
+#t7{
+    border-radius: 100px;
+    padding: 1px  40px;
+    background-color: rgb(92, 174, 54);   
+}
+
+
+
+
+/* floati  float left miakvs img sadac vetyvit left/rifht*
+marginit gamoweli makvs marcxena kedlidan 140 px it
+padding zrdis inputis zomas  sigrdze simagleeshi (adidebs) an (apataravebs) gaachnia ras mivutitebt
+border radiusit shegvidzlia davamrgvalot an porma mivcet inputs mag:me gamovikene kutxeebis mosamrgvaleblad
+script it shegvidzlia gamovikenot java scripti
+alret gvadzlevs mesijs roca buttons vawert
+function it vkmint funkcias rogor pythonshi defit da vadzlevt saxels romelic mititebuli mak buttonze
+on click nishnavs dawerisas
+/

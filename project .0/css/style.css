@@ -1,0 +1,36 @@
+body{
+    background-image  : url(green-gradient-background-gradient-3d-design_343694-3667.avif);
+    background-repeat: no-repeat;
+   
+
+}
+
+
+div{
+    text-align: center;
+}
+input{
+    padding: 1%; 
+    border-radius:10px;
+    background-color: rgb(197, 197, 197);
+}
+
+
+input[type=submit]{
+    border-radius: 100px;
+    padding: 8px  80px;
+    background-color: rgb(92, 174, 54);
+    
+}
+
+input[type=submit]:hover{
+    background-color: chartreuse;
+    cursor: pointer;
+}
+
+
+/* padding zrdis inputis zomas  sigrdze simagleeshi (adidebs) an (apataravebs) gaachnia ras mivutitebt
+border radiusit shegvidzlia davamrgvalot an porma mivcet inputs mag:me gamovikene kutxeebis mosamrgvaleblad
+backgroundcolor adzzlevs  inputis ukana mxares pers 
+text align centerit shegvidlia rac monishnuli gvakvs gadavitanot centrsshi
+hover aris gadatarebis dros animacia*/
